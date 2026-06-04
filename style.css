@@ -96,8 +96,9 @@ body {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  border-radius: 5px;
+  border-radius: 10px;
   padding: 10px;
+
   background-color: var(--primery-color);
   text-decoration: none;
   border: 1px solid var(--primery-color);
@@ -132,7 +133,7 @@ body {
   flex-direction: row;
   align-items: center;
   width: max-content;
-  border-radius: 5px;
+  border-radius: 100px;
   padding: 10px;
   background-color: var(--primery-color);
   text-decoration: none;
