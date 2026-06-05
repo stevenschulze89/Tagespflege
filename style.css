@@ -161,8 +161,6 @@ body {
 .about-images {
   display: grid;
   grid-template-columns: 2fr 2fr;
-
-  width: 250px;
   gap: 0.5rem;
   margin-top: 2rem;
 }
