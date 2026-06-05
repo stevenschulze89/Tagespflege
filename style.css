@@ -161,6 +161,8 @@ body {
 .about-images {
   display: grid;
   grid-template-columns: 2fr 2fr;
+
+  width: max-content;
   gap: 0.5rem;
   margin-top: 2rem;
 }
@@ -201,7 +203,7 @@ body {
 
 .tage {
   justify-content: center;
-  align-items: center;
+  align-items: left;
   color: var(--primery-text-color);
 }
 .time {
