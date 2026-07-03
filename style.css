@@ -47,7 +47,7 @@ body {
   min-height: 100vh;
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url("./Imeges/background.png");
+    url("./Imeges/background.jpg");
   display: flex;
   flex-direction: row;
   align-items: center;
