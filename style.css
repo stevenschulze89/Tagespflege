@@ -320,6 +320,29 @@ body {
   color: var(--primery-text-color);
 }
 
+.privacy-page {
+  max-width: 900px;
+  margin: 3rem auto;
+  padding: 0 1.5rem 3rem;
+}
+
+.privacy-content h2 {
+  color: var(--primery-text-color);
+  margin: 1.5rem 0 0.5rem;
+  font-size: 1.3rem;
+}
+
+.privacy-content h3 {
+  color: var(--primery-text-color);
+  margin: 1rem 0 0.4rem;
+}
+
+.privacy-list {
+  color: var(--primery-text-color);
+  padding-left: 1.2rem;
+  line-height: 1.7;
+}
+
 /*Media-Queries*/
 @media screen and (min-width: 344px) {
   .Title {
