@@ -47,7 +47,7 @@ body {
   min-height: 100vh;
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url("./Imeges/background.jpg");
+    url("./Images/background.jpg");
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -178,7 +178,7 @@ body {
   height: 30vh;
   background:
     linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url("./Imeges/Sleeproom.jpg");
+    url("./Images/Sleeproom.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -341,6 +341,10 @@ body {
   color: var(--primery-text-color);
   padding-left: 1.2rem;
   line-height: 1.7;
+}
+
+.information {
+  color: #e76c07;
 }
 
 /*Media-Queries*/
@@ -570,4 +574,3 @@ body {
   color: #ffffffcc;
   font-size: 0.95rem;
 }
-
